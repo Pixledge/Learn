@@ -9,11 +9,15 @@
     <sprite>sprites\Gunman</sprite>
     <sprite>sprites\platform</sprite>
     <sprite>sprites\sprite2</sprite>
+    <sprite>sprites\sprite3</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Backdrop</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\script0.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\Gunman_idle</object>
   </objects>
