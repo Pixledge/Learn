@@ -16,7 +16,6 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Gunman_idle</object>
-    <object>objects\platfor_object</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
