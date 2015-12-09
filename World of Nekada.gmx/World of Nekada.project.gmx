@@ -15,11 +15,10 @@
     <background>background\Backdrop</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts">
-    <script>scripts\script0.gml</script>
-  </scripts>
+  <scripts name="scripts"/>
   <objects name="objects">
     <object>objects\Gunman_idle</object>
+    <object>objects\object1</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
