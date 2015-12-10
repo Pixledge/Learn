@@ -6,21 +6,16 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\Gunman</sprite>
-    <sprite>sprites\platform</sprite>
-    <sprite>sprites\sprite2</sprite>
-    <sprite>sprites\sprite3</sprite>
+    <sprite>sprites\Hero_Idle</sprite>
+    <sprite>sprites\sprite6</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Backdrop</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts"/>
-  <objects name="objects">
-    <object>objects\Gunman_idle</object>
-  </objects>
+  <objects name="objects"/>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
