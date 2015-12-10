@@ -13,7 +13,15 @@
     <background>background\Backdrop</background>
   </backgrounds>
   <paths name="paths"/>
+<<<<<<< HEAD
   <objects name="objects"/>
+=======
+  <scripts name="scripts"/>
+  <objects name="objects">
+    <object>objects\Gunman_idle</object>
+    <object>objects\object1</object>
+  </objects>
+>>>>>>> origin/master
   <rooms name="rooms">
     <room>rooms\room1</room>
   </rooms>
