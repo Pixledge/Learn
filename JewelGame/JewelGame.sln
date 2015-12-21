@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JewelGame.CSharp.Plugins", "JewelGame.CSharp.Plugins.csproj", "{CC867186-BDC8-0571-03CB-80FFE7888557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JewelGame.CSharp", "JewelGame.CSharp.csproj", "{0FEA4BD0-B019-0CF0-54C7-CF65C4C6653E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JewelGame.CSharp.Editor.Plugins", "JewelGame.CSharp.Editor.Plugins.csproj", "{A167E84A-2D48-16C1-F47F-7D9CFFBDA3A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JewelGame.CSharp.Editor", "JewelGame.CSharp.Editor.csproj", "{50EB19D5-0AEA-2C1B-204A-5198AF328BB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC867186-BDC8-0571-03CB-80FFE7888557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC867186-BDC8-0571-03CB-80FFE7888557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC867186-BDC8-0571-03CB-80FFE7888557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC867186-BDC8-0571-03CB-80FFE7888557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FEA4BD0-B019-0CF0-54C7-CF65C4C6653E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FEA4BD0-B019-0CF0-54C7-CF65C4C6653E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FEA4BD0-B019-0CF0-54C7-CF65C4C6653E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FEA4BD0-B019-0CF0-54C7-CF65C4C6653E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A167E84A-2D48-16C1-F47F-7D9CFFBDA3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A167E84A-2D48-16C1-F47F-7D9CFFBDA3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A167E84A-2D48-16C1-F47F-7D9CFFBDA3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A167E84A-2D48-16C1-F47F-7D9CFFBDA3A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50EB19D5-0AEA-2C1B-204A-5198AF328BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EB19D5-0AEA-2C1B-204A-5198AF328BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50EB19D5-0AEA-2C1B-204A-5198AF328BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50EB19D5-0AEA-2C1B-204A-5198AF328BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
